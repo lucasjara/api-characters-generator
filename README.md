@@ -1,6 +1,6 @@
-# API Generación de Personajes e Historias (api-characters-generator).
+# API Generación de Personajes e Historias
 
-Este proyecto tiene por objetivo aplicar conocimientos en Node JS , levantar API.
+Este proyecto tiene por objetivo aplicar conocimientos en Node JS , levantar API (api-characters-generator).
 
 ## Construido con 🛠️
 
