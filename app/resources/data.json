@@ -1,0 +1,23 @@
+{
+    "type":[
+        { "name": "Guerrero" },
+        { "name": "Mago" },
+        { "name": "Caballero" },
+        { "name": "Héroe" },
+        { "name": "Demonio" }
+    ],
+    "skills":[
+        { "name": "Fuerza" },
+        { "name": "Velocidad" },
+        { "name": "Levitación" },
+        { "name": "Invisibilidad" },
+        { "name": "Telequinesis" }
+    ],
+    "history":[
+        { "name": "Torre de Babel" },
+        { "name": "Historia de Sanson" },
+        { "name": "El Diluvio" },
+        { "name": "El carro de fuego" },
+        { "name": "Goliat" }
+    ]
+}
