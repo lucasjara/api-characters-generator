@@ -21,6 +21,7 @@ class CurrencyConversionHelper{
         _currencyFactoryCLP = 779.10;
         console.log("💰  currency factor CLP is: " + _currencyFactoryCLP);
     }
+    
 
 }
 

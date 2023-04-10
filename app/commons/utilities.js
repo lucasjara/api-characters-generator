@@ -14,8 +14,12 @@
 
       return str;
   }
+  const GetRandomInt = (max) => {
+    return Math.floor(Math.random() * max);
+  }
 
 
 module.exports =  {
   stringFormat,
+  GetRandomInt
 };
